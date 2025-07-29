@@ -19,22 +19,22 @@ AI Visual: Key Influencers for academic success
 
 ##Capstone Requirements Summary
 PART 2:PYTHON ANALYTICS TASKS
-1. Clean the Dataset
+   1. Clean the Dataset
    ![DATA CLEANING](https://github.com/user-attachments/assets/298e7500-00d6-4643-9936-888021450496)
 
-2. Conduct Exploratory Data Analysis (EDA)
+   2. Conduct Exploratory Data Analysis (EDA)
    ![Conduct Exploratory Data Analysis (EDA)](https://github.com/user-attachments/assets/41039e7c-f803-4ea3-9c0d-7ab9605d45e7)
 
-3. Apply a Machine Learning or Clustering Model
+   3. Apply a Machine Learning or Clustering Model
    ![Apply a Machine Learning or Clustering Model](https://github.com/user-attachments/assets/4e5c65c0-815f-4991-9c4d-5c8f1df5f254)
 
-4. Evaluate the Model
+   4. Evaluate the Model
    ![Evaluate the Model](https://github.com/user-attachments/assets/98d31723-2163-4543-9447-a7c85040d711)
 
-5. Structure Your Code Properly
+   5. Structure Your Code Properly
    ![Structure Your Code Properly](https://github.com/user-attachments/assets/3bba9e47-96f7-43e4-857e-7a003957f8a8)
 
-6. Incorporate Innovation
+   6. Incorporate Innovation
    ![Incorporate Innovation](https://github.com/user-attachments/assets/f06d1bec-3c0e-4494-8c37-28ab5d776055)
 
 PART 3: POWER BI DASHBOARD TASKS
