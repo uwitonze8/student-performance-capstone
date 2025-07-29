@@ -20,6 +20,7 @@ AI Visual: Key Influencers for academic success
 ##Capstone Requirements Summary
 PART 2:PYTHON ANALYTICS TASKS
    1. Clean the Dataset
+      
    ![DATA CLEANING](https://github.com/user-attachments/assets/298e7500-00d6-4643-9936-888021450496)
 
 
@@ -36,6 +37,7 @@ PART 2:PYTHON ANALYTICS TASKS
 
 
    3. Apply a Machine Learning or Clustering Model
+
    ![Apply a Machine Learning or Clustering Model](https://github.com/user-attachments/assets/4e5c65c0-815f-4991-9c4d-5c8f1df5f254)
 
 
@@ -44,6 +46,7 @@ PART 2:PYTHON ANALYTICS TASKS
 
 
    4. Evaluate the Model
+      
    ![Evaluate the Model](https://github.com/user-attachments/assets/98d31723-2163-4543-9447-a7c85040d711)
 
    5. Structure Your Code Properly
