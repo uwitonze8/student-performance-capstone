@@ -56,7 +56,8 @@ PART 2:PYTHON ANALYTICS TASKS
    ![Incorporate Innovation](https://github.com/user-attachments/assets/f06d1bec-3c0e-4494-8c37-28ab5d776055)
 
 PART 3: POWER BI DASHBOARD TASKS
-Power bi dashboard
+Power bi dashboard(screenshot)
+
 ##Dataset Source
 1. Source Link: https://archive.ics.uci.edu/dataset/320/student+performance
 2. Combined dataset: student-mat.csv and student-por.csv
