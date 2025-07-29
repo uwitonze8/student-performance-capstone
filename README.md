@@ -22,11 +22,25 @@ PART 2:PYTHON ANALYTICS TASKS
    1. Clean the Dataset
    ![DATA CLEANING](https://github.com/user-attachments/assets/298e7500-00d6-4643-9936-888021450496)
 
+
+
+
+
+
    2. Conduct Exploratory Data Analysis (EDA)
    ![Conduct Exploratory Data Analysis (EDA)](https://github.com/user-attachments/assets/41039e7c-f803-4ea3-9c0d-7ab9605d45e7)
 
+
+
+
+
    3. Apply a Machine Learning or Clustering Model
    ![Apply a Machine Learning or Clustering Model](https://github.com/user-attachments/assets/4e5c65c0-815f-4991-9c4d-5c8f1df5f254)
+
+
+
+
+
 
    4. Evaluate the Model
    ![Evaluate the Model](https://github.com/user-attachments/assets/98d31723-2163-4543-9447-a7c85040d711)
