@@ -29,6 +29,7 @@ PART 2:PYTHON ANALYTICS TASKS
 
    2. Conduct Exploratory Data Analysis (EDA)
  
+   ![Conduct Exploratory Data Analysis (EDA)](https://github.com/user-attachments/assets/194b12be-21a5-44f6-b294-748e1785d0e4)
 
 
 
