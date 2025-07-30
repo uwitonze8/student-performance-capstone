@@ -28,9 +28,11 @@ II.	Problem Statement (Predicting Student Performance Using Socioeconomic and Ac
 III.	Dataset Identification ()
 
 ▪ Dataset Title: STUDENT PERFORMANCE
-▪ Source Link: Student Performance - UCI Machine Learning Repository
+
 ▪ Number of Rows and Columns: 382 rows, 53 columns (after merging both datasets)
+
 ▪ Data Structure: Structured (CSV) 
+
 ▪ Data Status: Requires Preprocessing
 
 PART 2:PYTHON ANALYTICS TASKS
