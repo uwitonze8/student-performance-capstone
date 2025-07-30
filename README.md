@@ -21,9 +21,9 @@ AI Visual: Key Influencers for academic success
 
 
 Part1
-I.	Sector Selection(education)
+I.	Sector Selection: education
 
-II.	Problem Statement (Predicting Student Performance Using Socioeconomic and Academic Data)
+II.	Problem Statement: Predicting Student Performance Using Socioeconomic and Academic Data
 
 III.	Dataset Identification ()
 
