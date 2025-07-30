@@ -20,7 +20,9 @@ AI Visual: Key Influencers for academic success
 ##Capstone Requirements Summary
 
 
-Part1
+Part1:PROBLEM DEFINITION & PLANNING 
+
+
 I.	Sector Selection: education
 
 II.	Problem Statement: Predicting Student Performance Using Socioeconomic and Academic Data
