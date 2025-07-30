@@ -18,6 +18,21 @@ AI Visual: Key Influencers for academic success
 5. Open presentation/Capstone_Presentation.pptx for the final summary
 
 ##Capstone Requirements Summary
+
+
+Part1
+I.	Sector Selection(education)
+
+II.	Problem Statement (Predicting Student Performance Using Socioeconomic and Academic Data)
+
+III.	Dataset Identification ()
+
+▪ Dataset Title: STUDENT PERFORMANCE
+▪ Source Link: Student Performance - UCI Machine Learning Repository
+▪ Number of Rows and Columns: 382 rows, 53 columns (after merging both datasets)
+▪ Data Structure: Structured (CSV) 
+▪ Data Status: Requires Preprocessing
+
 PART 2:PYTHON ANALYTICS TASKS
    1. Clean the Dataset
       
