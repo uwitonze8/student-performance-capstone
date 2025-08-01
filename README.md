@@ -77,7 +77,10 @@ PART 2:PYTHON ANALYTICS TASKS
 PART 3: POWER BI DASHBOARD TASKS
 
 
-Power bi dashboard(screenshot)
+Power BI dashboard
+
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/6f472a02-01a1-48e3-986b-31e162f9d62e" />
+
 
 ##Dataset Source
 1. Source Link: https://archive.ics.uci.edu/dataset/320/student+performance
