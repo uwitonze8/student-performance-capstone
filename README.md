@@ -1,3 +1,9 @@
+##student information 
+NAMES: UWITONZE Pacific
+id: 26983
+email: pacific.uwitonze112@gmail.com
+
+
 # student-performance-capstone
 Predicting Student Performance Using Socioeconomic and Academic Data
 
