@@ -3,9 +3,9 @@
 
 NAMES: UWITONZE Pacific
 
-id: 26983
+Id: 26983
 
-email: pacific.uwitonze112@gmail.com
+Email: pacific.uwitonze112@gmail.com
 
 
 # student-performance-capstone
